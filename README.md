@@ -44,7 +44,7 @@ The games includes features such as:
 ## Screenshots Android
 
 ### Single Player:
-![Single Player](./readme/android-single-player.jpg)
+![Single Player](./readme/android-single-player.png)
 
 ### Pause Menu:
-![Pause Menu](./readme/android-pause-menu.jpg)
+![Pause Menu](./readme/android-pause-menu.png)
